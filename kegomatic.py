@@ -5,7 +5,7 @@ import math
 import logging
 import pygame, sys
 from pygame.locals import *
-import RPi.GPIO as GPIO
+from RPi import GPIO
 from twitter import *
 from flowmeter import *
 from adabot import *
